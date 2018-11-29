@@ -71,9 +71,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1d2c16a7dbad230061c298e9db961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-09 16:31:16</sys_updated_on>
+            <sys_updated_on>2018-11-28 16:22:46</sys_updated_on>
             <value>sp</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -82,7 +82,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-11-09 16:31:16</sys_created_on>
-            <sys_id>d92c16a7dbad230061c298e9db96194c</sys_id>
+            <sys_id>1fa74475db8e230061c298e9db961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
